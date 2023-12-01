@@ -4,25 +4,8 @@ body {
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
     height: 100vh;
-    margin:0;
+    margin: 0;
     display: flex;
-  <html>
-    <head>
-        <link rel="stylesheet" href="index.css">
-    </head>
-    <body>
-        <div class="container">
-            <h1>Hug Life</h1>
-            <h2 id="count-el">0</h2>
-            <button id="hugs-btn" onclick="hugs()">HUGS</button>
-            <button id="save-btn" onclick="save()">SAVE</button>
-            <p id="save-el">Previous entries: </p>
-        </div>
-        <script src="index.js">
-            nnerText
-        </script>
-    </body>
-</html>
 }
 
 .container {
