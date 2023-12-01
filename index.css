@@ -5,14 +5,13 @@ body {
     background-position: center;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
-    height: 100vh;
     margin: 0;
     display: flex;
 }
 
 .container {
     background: #6ce2af;
-    max-width: 80%;
+    width: 80%;
     margin: auto;
     border: 5px solid black;
     border-radius: 45px;
